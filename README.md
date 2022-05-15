@@ -1,1 +1,1 @@
-ndhucsieplus-verification:kkk
+ndhucsieplus-verification:key
